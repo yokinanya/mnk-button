@@ -32,5 +32,6 @@
 ```
 请注意：
 * 音频文件必须为 `mp3` 格式，文件后缀为 `.mp3`
+* 最终展示出来的按钮上的文字，与文件名、`json` 文件中的名字是一致的
 * 不要留有 `content` 为空的分类
 * 请注意 `JSON` 文件的格式，不了解 `JSON` 格式的请阅读 [菜鸟教程上的`JSON`教程](https://www.runoob.com/json/json-tutorial.html)
