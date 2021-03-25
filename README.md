@@ -2,6 +2,8 @@
 
 # 这是Monaka按钮的测试版站点，正式版正在制作中
 
+访问站点 => [http://mnk-button.liamsho.xyz/](http://mnk-button.liamsho.xyz/)
+
 ## 添加剪辑
 
 1. Fork这个仓库
